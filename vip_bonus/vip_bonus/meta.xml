@@ -1,0 +1,8 @@
+<meta>
+	<info author ="alitfkc" description = "Meta Çip Vip Bonus Sistemi"/>
+    <script src="settings.lua" type="shared" cache="false"/> 
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server" cache="false"/>
+    <export function="meta_vip_bonus" type="server"/>
+    <export function="meta_vip_bonus" type="client"/>
+</meta>
